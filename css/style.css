@@ -1,0 +1,11 @@
+body {
+    background-color: grey;
+    padding: 20px;
+}
+
+P {
+    padding-left: 10px;
+}
+button {
+    border-radius: 8px
+}
